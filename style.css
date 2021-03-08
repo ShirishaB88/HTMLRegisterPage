@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(159, 192, 235);
+    
+  
+    
+    text-align: center;
+    
+    }
+    form{
+        background-color: white;
+        text-align: center;
+        border:2px solid rgb(206, 206, 230);
+        
+        
+    margin-top: 10px;
+    margin-right: 500px;
+    margin-bottom: 75%;
+    margin-left: 500px;
+  padding: 20px 20px 20px 40px; 
+    }
+    
+.images{
+    width: 1cm;
+    height: 1cm;
+}
+
+.button{
+    background-color: blue;
+}
+
